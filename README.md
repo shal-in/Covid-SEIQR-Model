@@ -1,0 +1,1 @@
+# SEIQR-Cellular-Automata-Model
